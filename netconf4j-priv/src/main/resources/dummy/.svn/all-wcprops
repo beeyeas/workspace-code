@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/main/resources/dummy
+END
+responseHello.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/main/resources/dummy/responseHello.xml
+END
+responseError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/main/resources/dummy/responseError.xml
+END
+responseOk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/main/resources/dummy/responseOk.xml
+END
+responseInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/main/resources/dummy/responseInfo.xml
+END

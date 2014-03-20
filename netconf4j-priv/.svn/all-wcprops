@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/2/trunk
+END
+COPYING.HEADER
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/COPYING.HEADER
+END
+WARNING
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/WARNING
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/pom.xml
+END

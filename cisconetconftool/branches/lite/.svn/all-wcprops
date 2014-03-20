@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/6/branches/lite
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/branches/lite/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/branches/lite/.project
+END
+trilead-ssh2-build211.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/branches/lite/trilead-ssh2-build211.jar
+END

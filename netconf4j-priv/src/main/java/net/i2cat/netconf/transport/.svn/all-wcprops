@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport
+END
+TransportListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport/TransportListener.java
+END
+VirtualTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport/VirtualTransport.java
+END
+TransportFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport/TransportFactory.java
+END
+TransportContentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport/TransportContentParser.java
+END
+MockTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport/MockTransport.java
+END
+SSHTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport/SSHTransport.java
+END
+Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/main/java/net/i2cat/netconf/transport/Transport.java
+END

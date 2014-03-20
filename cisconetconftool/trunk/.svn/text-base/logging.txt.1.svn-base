@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-09-23T18:02:07</date>
+  <millis>1379984527114</millis>
+  <sequence>0</sequence>
+  <logger>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</logger>
+  <level>INFO</level>
+  <class>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</class>
+  <method>getShowModule</method>
+  <thread>14</thread>
+  <message> n1kv.getXmlHandler().getXMLAgentSession().. </message>
+</record>
+<record>
+  <date>2013-09-23T18:02:08</date>
+  <millis>1379984528550</millis>
+  <sequence>1</sequence>
+  <logger>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</logger>
+  <level>INFO</level>
+  <class>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv$XMLAPIHandler</class>
+  <method>readMessage</method>
+  <thread>14</thread>
+  <message> Response:&lt;?xml version="1.0"?&gt;
+&lt;hello xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"&gt;
+  &lt;capabilities&gt;
+    &lt;capability&gt;urn:ietf:params:xml:ns:netconf:base:1.0&lt;/capability&gt;
+  &lt;/capabilities&gt;
+  &lt;session-id&gt;29351&lt;/session-id&gt;
+&lt;/hello&gt;
+</message>
+</record>
+<record>
+  <date>2013-09-23T18:02:08</date>
+  <millis>1379984528550</millis>
+  <sequence>2</sequence>
+  <logger>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</logger>
+  <level>INFO</level>
+  <class>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</class>
+  <method>sendShowModule</method>
+  <thread>14</thread>
+  <message>&lt;?xml version="1.0"?&gt;
+&lt;hello xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"&gt;
+  &lt;capabilities&gt;
+    &lt;capability&gt;urn:ietf:params:xml:ns:netconf:base:1.0&lt;/capability&gt;
+  &lt;/capabilities&gt;
+  &lt;session-id&gt;29351&lt;/session-id&gt;
+&lt;/hello&gt;
+</message>
+</record>
+<record>
+  <date>2013-09-23T18:02:08</date>
+  <millis>1379984528550</millis>
+  <sequence>3</sequence>
+  <logger>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</logger>
+  <level>INFO</level>
+  <class>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</class>
+  <method>sendShowModule</method>
+  <thread>14</thread>
+  <message>
+&lt;?xml version="1.0"?&gt;
+&lt;nc:rpc message-id="1" xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0"
+ xmlns="http://www.cisco.com/nxos:1.0:security_tree"&gt;
+ &lt;nc:get&gt;
+  &lt;nc:filter type="subtree"&gt;
+   &lt;show&gt;
+     &lt;module/&gt;
+   &lt;/show&gt;
+ &lt;/nc:filter&gt;
+&lt;/nc:get&gt;
+&lt;/nc:rpc&gt;
+]]&gt;]]&gt;
+</message>
+</record>
+<record>
+  <date>2013-09-23T18:02:08</date>
+  <millis>1379984528613</millis>
+  <sequence>4</sequence>
+  <logger>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</logger>
+  <level>INFO</level>
+  <class>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv$XMLAPIHandler</class>
+  <method>readMessage</method>
+  <thread>14</thread>
+  <message> Response:&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;
+&lt;nc:rpc-reply xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" xmlns="http://www.cisco.com/nxos:1.0:security_tree" message-id="1"&gt;
+ &lt;nc:data&gt;
+  &lt;show&gt;
+   &lt;module&gt;
+    &lt;__XML__OPT_Cmd_show_module_vem_vem&gt;
+     &lt;__XML__OPT_Cmd_show_module_vem_module&gt;
+      &lt;__XML__OPT_Cmd_show_module_vem___readonly__&gt;
+       &lt;__readonly__&gt;
+        &lt;TABLE_modinfo&gt;
+         &lt;ROW_modinfo&gt;
+          &lt;modinf&gt;2&lt;/modinf&gt;
+          &lt;ports&gt;0&lt;/ports&gt;
+          &lt;modtype&gt;Virtual Supervisor Module&lt;/modtype&gt;
+          &lt;model&gt;Nexus1000V&lt;/model&gt;
+          &lt;status&gt;active *&lt;/status&gt;
+         &lt;/ROW_modinfo&gt;
+        &lt;/TABLE_modinfo&gt;
+        &lt;TABLE_modver&gt;
+         &lt;ROW_modver&gt;
+          &lt;modver&gt;2&lt;/modver&gt;
+          &lt;sw&gt;4.2(1)SV2(2.1)&lt;/sw&gt;
+          &lt;hw&gt;0.0&lt;/hw&gt;
+         &lt;/ROW_modver&gt;
+        &lt;/TABLE_modver&gt;
+        &lt;TABLE_modsrvinfo&gt;
+         &lt;ROW_modsrvinfo&gt;
+          &lt;modsrv&gt;2&lt;/modsrv&gt;
+          &lt;srvip&gt;10.8.2.194&lt;/srvip&gt;
+          &lt;srvuuid&gt;NA&lt;/srvuuid&gt;
+          &lt;srvname&gt;NA&lt;/srvname&gt;
+         &lt;/ROW_modsrvinfo&gt;
+        &lt;/TABLE_modsrvinfo&gt;
+       &lt;/__readonly__&gt;
+      &lt;/__XML__OPT_Cmd_show_module_vem___readonly__&gt;
+     &lt;/__XML__OPT_Cmd_show_module_vem_module&gt;
+    &lt;/__XML__OPT_Cmd_show_module_vem_vem&gt;
+   &lt;/module&gt;
+  &lt;/show&gt;
+ &lt;/nc:data&gt;
+&lt;/nc:rpc-reply&gt;
+</message>
+</record>
+<record>
+  <date>2013-09-23T18:02:08</date>
+  <millis>1379984528613</millis>
+  <sequence>5</sequence>
+  <logger>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</logger>
+  <level>INFO</level>
+  <class>com.cisco.n1kv.installerv2.utils.vmware.objects.N1kv</class>
+  <method>sendShowModule</method>
+  <thread>14</thread>
+  <message>&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;
+&lt;nc:rpc-reply xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" xmlns="http://www.cisco.com/nxos:1.0:security_tree" message-id="1"&gt;
+ &lt;nc:data&gt;
+  &lt;show&gt;
+   &lt;module&gt;
+    &lt;__XML__OPT_Cmd_show_module_vem_vem&gt;
+     &lt;__XML__OPT_Cmd_show_module_vem_module&gt;
+      &lt;__XML__OPT_Cmd_show_module_vem___readonly__&gt;
+       &lt;__readonly__&gt;
+        &lt;TABLE_modinfo&gt;
+         &lt;ROW_modinfo&gt;
+          &lt;modinf&gt;2&lt;/modinf&gt;
+          &lt;ports&gt;0&lt;/ports&gt;
+          &lt;modtype&gt;Virtual Supervisor Module&lt;/modtype&gt;
+          &lt;model&gt;Nexus1000V&lt;/model&gt;
+          &lt;status&gt;active *&lt;/status&gt;
+         &lt;/ROW_modinfo&gt;
+        &lt;/TABLE_modinfo&gt;
+        &lt;TABLE_modver&gt;
+         &lt;ROW_modver&gt;
+          &lt;modver&gt;2&lt;/modver&gt;
+          &lt;sw&gt;4.2(1)SV2(2.1)&lt;/sw&gt;
+          &lt;hw&gt;0.0&lt;/hw&gt;
+         &lt;/ROW_modver&gt;
+        &lt;/TABLE_modver&gt;
+        &lt;TABLE_modsrvinfo&gt;
+         &lt;ROW_modsrvinfo&gt;
+          &lt;modsrv&gt;2&lt;/modsrv&gt;
+          &lt;srvip&gt;10.8.2.194&lt;/srvip&gt;
+          &lt;srvuuid&gt;NA&lt;/srvuuid&gt;
+          &lt;srvname&gt;NA&lt;/srvname&gt;
+         &lt;/ROW_modsrvinfo&gt;
+        &lt;/TABLE_modsrvinfo&gt;
+       &lt;/__readonly__&gt;
+      &lt;/__XML__OPT_Cmd_show_module_vem___readonly__&gt;
+     &lt;/__XML__OPT_Cmd_show_module_vem_module&gt;
+    &lt;/__XML__OPT_Cmd_show_module_vem_vem&gt;
+   &lt;/module&gt;
+  &lt;/show&gt;
+ &lt;/nc:data&gt;
+&lt;/nc:rpc-reply&gt;
+</message>
+</record>
+</log>

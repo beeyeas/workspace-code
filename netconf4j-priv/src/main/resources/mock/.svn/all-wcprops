@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/main/resources/mock
+END
+cpe1configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/main/resources/mock/cpe1configuration.xml
+END
+showrollbackinformation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/main/resources/mock/showrollbackinformation.xml
+END
+ipconfiguration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/main/resources/mock/ipconfiguration.xml
+END
+cpe2configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/main/resources/mock/cpe2configuration.xml
+END
+showsoftwareinformation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/main/resources/mock/showsoftwareinformation.xml
+END
+showrouteinformation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/main/resources/mock/showrouteinformation.xml
+END
+showinterfaceinformation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/main/resources/mock/showinterfaceinformation.xml
+END
